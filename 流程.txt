@@ -1,5 +1,5 @@
 0.世界观搭建
-  核心主题  ->核心玩法
+  核心主题，时间地点任务->核心玩法
 
 1.角色场景手稿设计  ps
 
@@ -7,9 +7,9 @@
 对应
 基础颜色色稿  -> 基础结构色稿 -> 表面细节凹凸纹理色稿 -> 表面细节平面纹理色稿
 
-2.角色和场景建模 3dsmax mudbox topogun
+2.角色和场景建模 3dsmax mudbox topogun uvlauout
 
-基础模型3dsmax ->高模mudbox ->拓扑底模topogun
+基础模型3dsmax ->高模mudbox ->拓扑底模topogun ->uv展开uvlauout
 
 3.角色和场景贴图 3dsmax  mudbox quixel
 
@@ -31,10 +31,11 @@ opacitymap贴图绘画 mudbox+ps
 
 导入场景搭建 设置相机最佳视觉点
 
-6.角色和场景交互
+6.关卡设置
 
-  导入角色设置场景交互
-  
+ 场景设计和搭建，角色交互，
+ 
+ 
 7.光照和后期处理
 
   光照，雾，屏幕后期处理等
