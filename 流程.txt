@@ -19,7 +19,7 @@ ambimentmap（Diffuse Color）固有色贴图 填充和绘画 quixel+ mudbox+ps
 
 OA map贴图生成3dsmax
 
-hightlightmap Specular Color mudbox+ps
+hightlightmap Specular Color折射光高光 绘制 mudbox+ps
 
 opacitymap透明贴图 绘画 mudbox+ps
 
