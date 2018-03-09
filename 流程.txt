@@ -1,7 +1,8 @@
 1.角色场景手稿设计  ps
 
 基本结构线稿  -> 细节结构线稿 -> 
-基础颜色色稿  -> 基础结构色稿 ->表面细节凹凸纹理色稿 ->表面细节平面纹理色稿
+对应
+基础颜色色稿  -> 基础结构色稿 -> 表面细节凹凸纹理色稿 -> 表面细节平面纹理色稿
 
 2.角色和场景建模 3dsmax mudbox topogun
 
@@ -11,9 +12,9 @@
 
 高模烘焙法线贴图3dsmax-> 基础颜色贴图quixel  ->细节颜色贴图mudbox
 
-4.角色动画绑定 3dsmax character studio
+4.角色动画绑定 3dsmax characterstudio skin
 
-蒙皮 权重 动作
+蒙皮 权重   动作
  
 5.游戏场景搭建 unity
 
@@ -32,8 +33,8 @@
   
   
 参考：
-
-  http://www.52vr.com/article-925-1.html  游戏场景搭建 光照和后期处理
+  游戏场景搭建 光照和后期处理
+  http://www.52vr.com/article-925-1.html 
   
   
 
