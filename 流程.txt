@@ -10,11 +10,19 @@
 
 3.角色和场景贴图 3dsmax  mudbox quixel
 
-高模烘焙法线贴图3dsmax-> 基础颜色贴图quixel  ->细节颜色贴图mudbox
+Normalmap高模烘焙法线贴图3dsmax
+
+ambimentmap颜色贴图填充和绘画 quixel+ mudbox+ps
+
+OAmap贴图生成3dsmax
+
+hightlightmap mudbox+ps
+
+opacitymap贴图绘画 mudbox+ps
 
 4.角色动画绑定 3dsmax characterstudio skin
 
-蒙皮 权重   动作
+蒙皮权重skin   动作characterstudio www.mixamo.com 
  
 5.游戏场景搭建 unity
 
@@ -35,8 +43,9 @@
 参考：
   游戏场景搭建 光照和后期处理
   http://www.52vr.com/article-925-1.html 
-  
-  
+  动作生成
+   www.mixamo.com 
+  
 
  
  
