@@ -7,5 +7,10 @@
 3.角色和场景贴图 3dsmax  mudbox quixel
 
 
-4. 角色动画绑定 3dsmax character studio
- 角色动画绑定
+4.角色动画绑定 3dsmax character studio
+ 角色动画绑定蒙皮权重 调动作
+ 
+ 
+5.
+ 
+ 
