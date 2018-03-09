@@ -22,7 +22,7 @@ opacitymap贴图绘画 mudbox+ps
 
 4.角色动画绑定 3dsmax characterstudio skin
 
-蒙皮权重skin   动作characterstudio www.mixamo.com 
+蒙皮权重skin   动作characterstudio或 www.mixamo.com 生成
  
 5.游戏场景搭建 unity
 
