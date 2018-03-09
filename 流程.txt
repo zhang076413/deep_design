@@ -13,15 +13,17 @@
 
 3.角色和场景贴图 3dsmax  mudbox quixel
 
-Normalmap高模烘焙法线贴图3dsmax
+Normal map高模烘焙法线贴图3dsmax
 
-ambimentmap颜色贴图填充和绘画 quixel+ mudbox+ps
+ambimentmap（Diffuse Color）固有色贴图 填充和绘画 quixel+ mudbox+ps
 
-OAmap贴图生成3dsmax
+OA map贴图生成3dsmax
 
-hightlightmap mudbox+ps
+hightlightmap Specular Color mudbox+ps
 
-opacitymap贴图绘画 mudbox+ps
+opacitymap透明贴图 绘画 mudbox+ps
+
+ 自发光贴图  mudbox+ps
 
 4.角色动画绑定 3dsmax characterstudio skin
 
@@ -49,7 +51,7 @@ opacitymap贴图绘画 mudbox+ps
   http://www.52vr.com/article-925-1.html 
   动作生成
    www.mixamo.com 
-  
+  百度次时代游戏开发流程
 
  
  
