@@ -52,6 +52,8 @@ opacitymap透明贴图 绘画 mudbox+ps
   动作生成
    www.mixamo.com 
   百度次时代游戏开发流程
+  SSOA插件
+  unity fog lihgt
 
  
  
